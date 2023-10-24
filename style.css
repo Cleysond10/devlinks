@@ -63,6 +63,10 @@ body * {
   width: 64px;
 
   margin: 4px auto;
+
+  :hover {
+    cursor: pointer;
+  }
 }
 
 #switch button {
