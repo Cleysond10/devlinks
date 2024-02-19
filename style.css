@@ -48,6 +48,7 @@ body * {
 }
 
 #profile img {
+  border-radius: 8px;
   width: 112px;
 }
 
